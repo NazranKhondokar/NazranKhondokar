@@ -1,6 +1,6 @@
 ## :man_office_worker: About me
 
-- :snowman: I spent more than 3000 hours engaged in various programming projects and exercises to enhance my proficiency in the field at university period.
+- :snowman: I spent more than 4000 hours engaged in various programming projects and exercises to enhance my proficiency in the field at university period.
 - :snowman: Through my engagement with various online judges, I have successfully tackled over 350 distinct problems.
 - :snowman: I possess the versatility to work on multiple technology stacks concurrently.
 - :snowman: Throughout my career transitions, I have consistently been tasked with working on unfamiliar technologies. Despite my lack of prior experience, I have consistently risen to the challenge and excelled in assuming my new responsibilities.
@@ -22,8 +22,8 @@
 [![VSCode](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://code.visualstudio.com/)
 
 ## :ghost: My Profiles
-
-[![UVa](https://img.shields.io/badge/online_judge-uva-F34B7D?style=for-the-badge&logo=none)](https://uhunt.onlinejudge.org/id/249088)
+<!-- 
+[![UVa](https://img.shields.io/badge/online_judge-uva-F34B7D?style=for-the-badge&logo=none)](https://uhunt.onlinejudge.org/id/249088) -->
 [![StackOverflow](https://img.shields.io/badge/profile-stack_overflow-F2740D?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/8515899/nazran-khondokar)
 [![LinkedIn](https://img.shields.io/badge/profile-Linked_in-0E76E8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nazran91)
 [![Blogger](https://img.shields.io/badge/profile-blogger-FC4F08?style=for-the-badge&logo=blogger)](https://2d-15point7.blogspot.com/)
