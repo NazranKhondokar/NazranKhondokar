@@ -7,20 +7,21 @@
 
 - :snowman: I spent more than 3000 hours engaged in various programming projects and exercises to enhance my proficiency in the field at university period.
 - :snowman: Through my engagement with various online judges, I have successfully tackled over 350 distinct problems.
-- :snowman: I possess the versatility to effectively work on multiple technology stacks concurrently.
-- :snowman: Have a facility for learning and applying new technologies with ease whenever the need arises.
+- :snowman: I possess the versatility to work on multiple technology stacks concurrently.
 - :snowman: Throughout my career transitions, I have consistently been tasked with working on unfamiliar technologies. Despite my lack of prior experience, I have consistently risen to the challenge and excelled in assuming my new responsibilities.
   <br>
 
 ## :fork_and_knife: Technologies & Tools
 
-[![Java](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&labelColor=17202A&color=1abc9c)](https://www.java.com/en/download/help/whatis_java.html)
+[![Java](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&labelColor=17202A&color=1abc9c)](https://www.java.com/en/download/help/whatis_java.html)
 [![Spring](https://img.shields.io/badge/Code-Spring-informational?style=for-the-badge&logo=Spring&labelColor=17202A&color=1abc9c)](https://spring.io/projects/spring-boot)
-[![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=Javascript&labelColor=17202A&color=1abc9c)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Android](https://img.shields.io/badge/Code-Android-informational?style=for-the-badge&logo=Android&labelColor=17202A&color=1abc9c)](https://www.android.com/)
+[![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=for-the-badge&logo=Android&labelColor=17202A&color=1abc9c)](https://www.android.com/)
+[![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=Flutter&labelColor=17202A&color=1abc9c)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![C](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&labelColor=17202A&color=1abc9c)](https://www.cprogramming.com/)
 [![C++](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B&labelColor=17202A&color=1abc9c)](https://isocpp.org/)
 [![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&labelColor=17202A&color=1abc9c)](https://www.mysql.com/)
-[![MSSQL](https://img.shields.io/badge/DB-MSSQL-informational?style=for-the-badge&logo=mssql&labelColor=17202A&color=1abc9c)](https://www.microsoft.com/en-us/sql-server)
+[![MSSQL](https://img.shields.io/badge/DB-MSSQL-informational?style=for-the-badge&logo=sql-server&labelColor=17202A&color=1abc9c)](https://www.microsoft.com/en-us/sql-server)
 [![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=Docker&labelColor=17202A&color=1abc9c)](https://www.docker.com/)
 [![Intellij](https://img.shields.io/badge/IDE-Intellij-informational?style=for-the-badge&logo=Intellij&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://www.jetbrains.com/idea/)
 [![VSCode](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://code.visualstudio.com/)
