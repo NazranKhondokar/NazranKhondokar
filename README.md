@@ -25,9 +25,6 @@
 ## :ghost: My Profiles
 
 [![UVa](https://img.shields.io/badge/online_judge-uva-F34B7D?style=for-the-badge&logo=none)](https://uhunt.onlinejudge.org/id/370372)
-[![Codeforces](https://img.shields.io/badge/online_judge-codeforces-006FBF?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Back_To_School)
-[![LightOJ](https://img.shields.io/badge/online_judge-lightoj-3298DC?style=for-the-badge&logo=none)](https://lightoj.com/user/shahnawaz-pabon)
-[![HackerRank](https://img.shields.io/badge/online_judge-hackerrank-1BA94C?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/shahnawaz_pabon)
 [![StackOverflow](https://img.shields.io/badge/profile-stack_overflow-F2740D?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/8515899/nazran-khondokar)
 [![LinkedIn](https://img.shields.io/badge/profile-Linked_in-0E76E8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nazran91)
 [![Blogger](https://img.shields.io/badge/profile-blogger-FC4F08?style=for-the-badge&logo=blogger)](https://2d-15point7.blogspot.com/)
