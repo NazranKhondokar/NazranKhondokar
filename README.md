@@ -1,8 +1,3 @@
-<div align="center"> <img src="./images/header-image.png"> </div>
-<br>
-<br>
-<!-- <img align="right" width="400" height="250" alt="boy with computer" src="./images/coffee.png" /> -->
-
 ## :man_office_worker: About me
 
 - :snowman: I spent more than 3000 hours engaged in various programming projects and exercises to enhance my proficiency in the field at university period.
