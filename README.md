@@ -14,10 +14,13 @@
 
 ## :fork_and_knife: Technologies & Tools
 
+[![Java](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&labelColor=17202A&color=1abc9c)](https://www.java.com/en/download/help/whatis_java.html)
+[![Java](https://img.shields.io/badge/Code-Spring-informational?style=for-the-badge&logo=Spring&labelColor=17202A&color=1abc9c)](https://spring.io/projects/spring-boot)
 [![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=Javascript&labelColor=17202A&color=1abc9c)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![C](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&labelColor=17202A&color=1abc9c)](https://www.cprogramming.com/)
 [![C++](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B&labelColor=17202A&color=1abc9c)](https://isocpp.org/)
 [![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&labelColor=17202A&color=1abc9c)](https://www.mysql.com/)
+[![MSSQL](https://img.shields.io/badge/DB-MSSQL-informational?style=for-the-badge&logo=mssql&labelColor=17202A&color=1abc9c)](https://www.microsoft.com/en-us/sql-server)
 [![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=Docker&labelColor=17202A&color=1abc9c)](https://www.docker.com/)
 [![VSCode](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=17202A&color=1abc9c)](https://code.visualstudio.com/)
 [![Latex](https://img.shields.io/badge/Latex-★★☆-lightgrey?labelColor=008080&logo=LaTeX&style=for-the-badge&logoColor=white)](https://www.latex-project.org/)
