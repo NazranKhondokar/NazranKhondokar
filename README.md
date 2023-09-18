@@ -1,6 +1,5 @@
 ## :man_office_worker: About me
 
-- :snowman: I spent more than 4000 hours engaged in various programming projects and exercises to enhance my proficiency in the field at university period.
 - :snowman: Through my engagement with various online judges, I have successfully tackled over 350 distinct problems.
 - :snowman: I possess the versatility to work on multiple technology stacks concurrently.
 - :snowman: Throughout my career transitions, I have consistently been tasked with working on unfamiliar technologies. Despite my lack of prior experience, I have consistently risen to the challenge and excelled in assuming my new responsibilities.
